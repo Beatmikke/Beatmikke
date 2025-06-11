@@ -21,8 +21,8 @@ I'm a Software Developer from Mexico 🇲🇽 with 5+ years of experience buildi
 
 ### 📫 How to reach me
 - Email: mchavez.c22@gmail.com
-- GitHub: [mikke-22](https://github.com/mikke-22)
-- LinkedIn: *coming soon...*
+- GitHub: [Beatmikke](https://github.com/mikke-22)
+- LinkedIn: [Miguel Ángel Chávez Juárez](https://www.linkedin.com/in/miguel-%C3%A1ngel-ch%C3%A1vez-ju%C3%A1rez-ba3170319/)
 
 ---
 

@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Miguel Ángel Chávez Juárez
 
-<!--
-**Beatmikke/Beatmikke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer from Mexico 🇲🇽 with 5+ years of experience building web and desktop applications. I specialize in VB.NET, JavaScript, and SQL, and I enjoy solving real-world problems with clean and efficient code.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages:** VB.NET, JavaScript, SQL, Python (learning)
+- **Frontend:** HTML5, CSS3, Bootstrap
+- **Backend:** VB.NET, PHP, Node.js (learning)
+- **Databases:** SQL Server, MySQL
+- **Tools:** Git, Bitbucket, Adobe Dreamweaver, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Node.js, React.js
+- English for professional development
+- Cloud basics (AWS)
+
+### 🔍 I'm looking for
+- Remote developer opportunities
+- International teams and tech projects
+- Growth and mentorship in modern tech stacks
+
+### 📫 How to reach me
+- Email: mchavez.c22@gmail.com
+- GitHub: [mikke-22](https://github.com/mikke-22)
+- LinkedIn: *coming soon...*
+
+---
+
+Thanks for visiting!
